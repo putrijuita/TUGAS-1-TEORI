@@ -49,7 +49,7 @@
 
                 <h4>ket: masukkan gambar hasil inputan nilai di github</h4>
                 
-                <a href="https://github.com/putrijuita/"><h4>https://github.com/putrijuita/Switch-Statement-PHP.git</h4></a>
+                <a href="https://github.com/putrijuita/TUGAS-1-TEORI.git"><h4>https://github.com/putrijuita/Switch-Statement-PHP.git</h4></a>
 
             </section>
 
